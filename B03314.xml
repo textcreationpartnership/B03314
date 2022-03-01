@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of such parts of several statutes relating to silks called alamodes and lustrings, as may guide officers, and others, in the execution thereof ; and direct all dealers in such silks, to avoid the penalties therein contained.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03314</idno>
+            <idno type="STC">Wing E864</idno>
+            <idno type="STC">ESTC R225218</idno>
+            <idno type="EEBO-CITATION">51617675</idno>
+            <idno type="OCLC">ocm 51617675</idno>
+            <idno type="VID">175210</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175210)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2722:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of such parts of several statutes relating to silks called alamodes and lustrings, as may guide officers, and others, in the execution thereof ; and direct all dealers in such silks, to avoid the penalties therein contained.</title>
+                  <author>England and Wales. Laws, etc.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Silk industry --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175210:1"/>
+            <head>An <hi>ABSTRACT</hi> of ſuch Parts of ſeveral Statutes relating to Silks called <hi>Alamodes</hi> and <hi>Luſtrings,</hi> as may guide Officers, and others, in the Execution thereof; and direct all Dealers in ſuch Silks, to avoid the Penalties therein contained.</head>
+            <p>THAT no Perſon ſhall buy or ſell, or ſend beyond Sea, any Black Alamodes or Luſtrings, unleſs they have the Seal or Seals, Mark or Marks uſed for Foreign Goods at the <hi>Cuſtom-Houſe,</hi> or the Seal and Mark uſed by the <hi>Luſtring-Company</hi> for Goods manufactured by them, under For<g ref="char:EOLhyphen"/>feiture of all ſuch Goods, and alſo the Sum of 100 <hi>l.</hi> for every Offence. 6 &amp; 7 <hi>W.</hi> 3. chap. 18.</p>
+            <p>That if the Buyer of ſuch Goods not ſealed, do within Twelve Months after, diſcover the Perſon of whom he ſhall buy the ſame, he ſhall not only be diſcharged of the Penalty, but ſhall receive one Moiety of the Sum hereby impoſed upon the Party ſo ſelling or diſpoſing of ſuch Silks. The ſame <hi>Stat.</hi>
+            </p>
+            <p>All Black Alamodes and Luſtrings, whereſoever manufactured, which ſhall be found in the Cuſtody or Poſſeſſion of any Perſon, not marked or ſealed with the Mark and Seal of the <hi>Cuſtom-Houſe,</hi> or of the <hi>Royal Luſtring-Company,</hi> ſhall be forfeited, and may be ſeized as forfeited, whether the ſame have been before bought and ſold, or not; and the Perſon in whoſe Cuſtody or Poſſeſſion the ſame are found, ſhall incur the Penalties in the precedent Clauſe. 8 &amp; 9 <hi>W.</hi> 3. chap. 36.</p>
+            <p>No Alamodes and Luſtrings, that after the 10th of <hi>April,</hi> 1697. ſhall be ſeized and forfeited, ſhall be uſed in <hi>England;</hi> but immediately, on ſeizure, ſhall be carried to the <hi>Cuſtom-Houſe</hi> Ware-houſe in <hi>London,</hi> and there ſold by Inch of Candle, on Condition to be Exported, and Security given for Exportation: Which Security ſhall be diſcharged by Certificate from the Chief Magiſtrate or Officer of the Port <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here ſuch Goods ſhall be landed, or Oath made that they were loſt at Sea. The ſame <hi>Stat.</hi>
+            </p>
+            <p>On Exportation of Foreign Luſtrings or Alamodes, the Exporter ſhall not receive, draw back, or be re<g ref="char:EOLhyphen"/>paid the Cuſtoms or Impoſitions paid or ſecured on Importation of the ſame, or any part thereof. Same <hi>Stat.</hi>
+            </p>
+            <p>From and after the 1ſt of <hi>July,</hi> 1698. no Foreign Alamodes or Luſtrings ſhall be Imported into any other Port than <hi>London;</hi> and Notice ſhall be given to the Commiſſioners of the Cuſtoms, of the Qua<g ref="char:EOLhyphen"/>lity and Quantity, with the Marks, Numbers and Package of all ſuch Silks intended to be Imported, with the Name of the Importer, and the Ship and her Burthen, and of the Commander, on which they are to be laden, and the Port where they are to be taken on board; and a Licence ſhall be taken under the Hands of the ſaid Commiſſioners, or any Three of them, for the Importing the ſame. 9 &amp; 10 <hi>W.</hi> 3. chap. 43. <hi>In which are alſo the following Clauſes:</hi>
+            </p>
+            <p>The ſaid Commiſſioners ſhall cauſe to be marked and ſealed, all ſuch Alamodes and Luſtrings which ſhall be Imported according to this <hi>Act,</hi> and keep a Regiſtry thereof in the <hi>Cuſtom-Houſe, London:</hi> And if any ſuch Silks ſhall be Imported into any other Port than <hi>London,</hi> or Imported without Notice and Licence, and the Duties paid, or ſhall not be ſo ſealed or marked, ſuch Silks, or the full Value, ſhall be forfeited: And Silks ſeized and forfeited by Virtue of this or any former <hi>Act,</hi> ſhall be Sold and Exported; and the ſame Rules ſhall be obſerved in the Selling or Exporting thereof, as are men<g ref="char:EOLhyphen"/>tioned in the precedent <hi>Stat.</hi> of 8 &amp; 9 <hi>W.</hi> 3. chap. 36.</p>
+            <p>All Perſons who ſhall Import, or bring, or cauſe, or procure to be Imported, or brought into this Kingdom, any Alamodes or Luſtrings, contrary to this <hi>Act,</hi> or knowingly receive or take the ſame into their Houſe, Ware-houſe, Cuſtody or Poſſeſſion, or ſell, barter, or offer to ſale, or cauſe to be ſold or bartered, or offered to ſale, any ſuch Silks ſo fraudulently Imported, and their Aiders, Abet<g ref="char:EOLhyphen"/>t<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and Aſſiſtants, knowing thereof, ſhall forfeit 500 <hi>l.</hi>
+            </p>
+            <p>If any Commiſſion or Warrant-Officer, or other Perſon in the Service of his Majeſty, and having the Command of any Ship, ſhall import, bring, ſend or convey, or procure or ſuffer to be imported, or take on board any Alamodes or Luſtrings, in order to be imported, or unſhip, or ſuffer to be un<g ref="char:EOLhyphen"/>ſhipt, into any Boat or other Veſſel, any ſuch Silks, knowing thereof, he ſhall, over and above the Forfeitures and Penalties in this or any other <hi>Act,</hi> be, <hi>ipſo facto,</hi> rendered incapable of ſerving his Ma<g ref="char:EOLhyphen"/>jeſty by Sea or Land, or of having any Benefit which he may be intitled to, by Virtue of any ſuch Service: And if any Seaman, or other Perſon belonging to any Ship, ſhall diſcover any Alamodes or Luſtrings imported, or unſhipt into any Boat or other Veſſel, in order to be imported, contrary to this <hi>Act;</hi> ſuch Perſons ſhall (over and above their Part of the Forfeitures by this <hi>Act</hi>) be immediately diſcharged from on board ſuch Ship, if they deſire the ſame, and the Captain or Maſter ſhall imme<g ref="char:EOLhyphen"/>diately give them a Ticket, intitling them to all their Wages due on board ſuch Ship.</p>
+            <p>If any Perſons alter, counterfeit, or miſapply either of the Seals or Marks of the <hi>Cuſtom-houſe,</hi> or of the <hi>Royal Luſtring Company,</hi> they, their Aiders, Abettors, and Aſſiſtants, ſhall, for every Offence, for<g ref="char:EOLhyphen"/>feit 500 <hi>l.</hi> and ſtand in the Pillory two Hours: And all Perſons, who ſhall buy or ſell, or have in their Cuſtody or Poſſeſſion, any Alamodes or Luſtrings with a Counterfeit-Seal or Mark, or with the <hi>Cuſtom-houſe</hi> or <hi>Company's</hi> Seal or Mark not lawfully affixed thereto, knowing thereof, and not diſco<g ref="char:EOLhyphen"/>vering, ſhall forfeit the Goods, and 100 <hi>l.</hi>
+            </p>
+            <p>Any Perſons, with a Writ of Aſſiſtance from the <hi>Exchequer,</hi> or a Conſtable or Officer, and a Juſtice of Peace's Warrant, may, in the Day-time, enter any Houſe, Shop, or other Place, to ſearch for and ſeize any Alamodes or Luſtrings imported contrary to this or any other <hi>Act,</hi> or not ſealed and marked as aforeſaid, or ſealed or marked with any Counterfeit Seal or Mark; and in caſe of Reſiſtance; to break open Doors, Cheſts, and other Package, there to ſeize, and from thence to bring any ſuch Silks: And the Juſtices of Peace are to grant ſuch Warrants to credible Perſons making Oath they ſuſpect there are ſuch Silks where they intend to ſearch: And if any Diſpute ariſe, whether ſuch Silks were manufactured beyond the Seas, or imported contrary to this <hi>Act,</hi> the Proof ſhall lie upon the Impor<g ref="char:EOLhyphen"/>ter, Claimer, or Owner, and not upon the Proſecutor.</p>
+            <p>All Officers of the Cuſtoms, and all other Officers, ſhall be aſſiſting in the Execution of this <hi>Act:</hi> And if any Officer of the Cuſtoms, knowingly, connive at the fraudulent Importation, delivering,
+<pb facs="tcp:175210:2"/>receiving, buying, or ſelling any Alamodes or Luſtrings; or if any Perſons taking upon them to ſeize or proſecute, in Purſuance of this or any other <hi>Act,</hi> ſhall by Colluſion deſiſt or delay Proſecution, they ſhall forfeit 500 <hi>l.</hi> and be incapable of any Office or Employment.</p>
+            <p>Perſons convicted for any Offence againſt this, or any other <hi>Act,</hi> relating to Alamodes ôr Luſtrings, and ſhall offend a ſecond Time, or oftner, ſhall, ſo often as they offend, forfeit Double the Sum inflicted by this <hi>Act.</hi>
+            </p>
+            <p>All Perſons offending contrary to this, or any other <hi>Act</hi> relating to Alamodes or Luſtrings, may be proſecuted in any Action, Suit or Information, and thereupon a <hi>Capias</hi> ſpecifying the Penalties ſued for may iſſue, and ſufficient Bail ſhall be given by natural born Subjects or Denizons, to appear at the Return of ſuch Writ, and at the Time of Appearance, ſufficient Bail to anſwer the Penalties in caſe of Conviction, or to ſuffer Impriſonment.</p>
+            <p>All Penalties and Forfeitures impoſed hereby, or by any former Law relating to Alamodes or Lu<g ref="char:EOLhyphen"/>ſtrings, ſhall be Two Third Parts to his Majeſty, and One Third to the Proſecutor; the Charge of which Suit ſhall be borne by his Majeſty, out of his Majeſty's Part of the Forfeitures.</p>
+            <p>No Claim ſhall be entered to any Silks ſeized as aforeſaid, till Security be given, by Recognizance, to anſwer the Penalties and Forfeitures, with full Coſts of Suit, in caſe a Verdict ſhall paſs, or Judg<g ref="char:EOLhyphen"/>ment be entered for the Plaintiff: And in Default of ſuch Security within the limited Time, the Goods to be forfeited, and Judgment entered accordingly.</p>
+            <p>This <hi>Act</hi> to be conſtrued moſt beneficially for the Proſecutor, and for preventing the Miſchiefs here<g ref="char:EOLhyphen"/>by provided againſt.</p>
+            <p>All Informations or Actions brought by any Informer, for any Offence againſt this <hi>Act,</hi> ſhall be com<g ref="char:EOLhyphen"/>menced within Two Years after the Offence committed.</p>
+            <p>
+               <hi>For the more effectual Execution of the ſaid</hi> Statutes, <hi>the</hi> Royal Luſtring-Company <hi>give Notice, That if any Perſon will give Information to them, whereby any the Offences aforeſaid may be diſcover'd, they will Aſſiſt ſuch Perſons in Proſecuting the Offenders: And to prevent all Abuſes in the Execution of the ſaid Laws, the</hi> Company, <hi>upon Application to them, will take care that no Perſon (Dealing in Alamodes and Luſirings made by them) be in any wiſe injured.</hi>
+            </p>
+            <p>
+               <hi>And for the Accommodation of all Dealers, who may have occaſion to cut their Silks into ſmall Parcels, for Sale; The</hi> Company <hi>will at any Time, upon Requeſt, affix a convenient Number of Seals to their Pieces, which contain generally upwards of Sixty Ells; which Seal hath been made of Lead, and is now made of Tin, and hath on one ſide the Arms of the City of</hi> London, <hi>viz. a</hi> Croſs and Dagger; <hi>and on the other ſide, the Arms of the</hi> Company, <hi>being a</hi> Mulberry-Tree, Two Flyes, <hi>and</hi> Three Cocons <hi>(which in form reſemble an Egg,) and for the Creſt, a</hi> Juſtice: <hi>And together with each Seal, there is alſo upon the ſame String (which is of one entire Piece) a Mark, being a ſmall Indent made in Parchment, on which is the Number of the Piece; Regiſtries of which are kept by the</hi> Company, <hi>for the better Diſcovery of Counterfeit Seals and Marks, and ſuch as may be miſapplied.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
